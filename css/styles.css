@@ -10554,7 +10554,7 @@ header.masthead .masthead-heading {
 }
 
 .contact-info {
-  color: #fff;
+  color: #fff !important;
 }
 
 @media (min-width: 768px) {

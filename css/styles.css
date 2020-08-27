@@ -10410,7 +10410,20 @@ p {
   section {
     padding: 9rem 0;
   }
+
+  .services {
+    display: flex !important;
+  }
+
+  .services div {
+    margin: 0 35px !important;
+  }
 }
+
+.services div:first-child {
+  margin-bottom: 50px !important;
+}
+
 ::-moz-selection {
   background: #fed136;
   text-shadow: none;
